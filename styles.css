@@ -44,10 +44,11 @@
       border-radius: 5px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
-h3 {
+.h3 {
   font-family: Comic, sans-serif;
   font-size: 40px;
   color: #ffffff!important;
+    backgroundcolor: #ff2d00;
   font-weight: bold;
   text-align: center;
 }
