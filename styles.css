@@ -24,12 +24,16 @@
       margin-right: 20px;
       font-weight: bold;
       color: #ffffff;
+       background: #f0f0f0; /* Couleur de fond gris clair */
+    padding: 10px; /* Ajoute un espace autour du texte */
     }
    .links a {
       text-decoration: none;
      font-weight: bold;
       color: #ffffff;
       transition: color 0.2s ease;
+       background: #f0f0f0; /* Couleur de fond gris clair */
+    padding: 10px; /* Ajoute un espace autour du texte */
     }
    .links a:hover {
       color: #ff2d00;
