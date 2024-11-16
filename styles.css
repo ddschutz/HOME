@@ -25,6 +25,7 @@
       font-weight: bold;
       color: #ffffff;
        background: #f0f0f0; /* Couleur de fond gris clair */
+        background-color: #f0f0f0; /* Couleur de fond gris clair */
     padding: 10px; /* Ajoute un espace autour du texte */
     }
    .links a {
@@ -52,7 +53,7 @@ h1 {
   font-family: Comic, sans-serif;
   font-size: 40px;
   color: #ffffff!important;
-    backgroundcolor: #ff2d00;
+    background-color: #ff2d00;
   font-weight: bold;
   text-align: center;
 }
