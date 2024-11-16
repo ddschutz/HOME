@@ -25,7 +25,7 @@
       font-weight: bold;
       color: #ffffff;
        background: #f0f0f0; /* Couleur de fond gris clair */
-        background-color: #f0f0f0; /* Couleur de fond gris clair */
+        background-color: #000000; /* Couleur de fond noir */
     padding: 10px; /* Ajoute un espace autour du texte */
     }
    .links a {
@@ -33,7 +33,7 @@
      font-weight: bold;
       color: #ffffff;
       transition: color 0.2s ease;
-       background: #f0f0f0; /* Couleur de fond gris clair */
+               background-color: #000000; /* Couleur de fond noir */
     padding: 10px; /* Ajoute un espace autour du texte */
     }
    .links a:hover {
@@ -53,7 +53,6 @@ h1 {
   font-family: Comic, sans-serif;
   font-size: 40px;
   color: #ffffff!important;
-    background-color: #ff2d00;
   font-weight: bold;
   text-align: center;
 }
