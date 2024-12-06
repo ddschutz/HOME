@@ -28,3 +28,17 @@
     background-color: #ccc;
     color: #fff;
   }
+
+
+.links li1 {
+  display: inline-block;
+  width: 30%; /* ajustez la largeur pour obtenir 3 colonnes */
+  float: left; /* fait flotter les éléments à gauche */
+  margin: 10px; /* ajoute une marge pour séparer les éléments */
+  font-weight: lighter;
+  color: #000000;
+}
+
+.links li1:nth-child(3n+1) {
+  clear: left; /* force le retour à la ligne pour les éléments multiples de 3 */
+}
